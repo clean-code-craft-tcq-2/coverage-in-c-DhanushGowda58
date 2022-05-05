@@ -2,8 +2,6 @@
 
 #include "test/catch.hpp"
 #include "typewise-alert.h"
-#include "TemperatureBreachClassifier.h"
-#include "BreachTypeAlert.h"
 
 TargetAlert *getAlert(const AlertTarget &alertTarget);
 
